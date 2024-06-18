@@ -20,7 +20,7 @@ namespace DataAccessLayer.Data
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseSqlServer("Server=(local); Database=BBMS; Uid=sa; Pwd=123456; TrustServerCertificate=true");
+            => optionsBuilder.UseSqlServer("Server=(local); Database=BBMS; Uid=sa; Pwd=12345; TrustServerCertificate=true");
 
         protected override void ConfigureConventions(ModelConfigurationBuilder builder)
         {

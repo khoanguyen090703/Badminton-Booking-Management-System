@@ -22,5 +22,8 @@ namespace Repositories
 
         public bool UpdateUser(User user)
             => UserDAO.UpdateUser(user);
+
+        public User? GetUserByEmail(string email)
+            => UserDAO.GetUserByEmail(email);
     }
 }

@@ -64,5 +64,11 @@ namespace DataAccessLayer
             }
         }
 
+        public static User? GetUserByEmail(string email)
+        {
+            using var dbContext = new BBMSDbContext();
+            return dbContext.Users.FirstOrDefault(u => u.Email == email);
+        }
+
     }
 }
