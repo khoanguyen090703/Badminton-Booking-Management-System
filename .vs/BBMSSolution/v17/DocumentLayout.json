@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\C# Project\\PRN221_GroupProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\authentication\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\authentication\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\authentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\authentication\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\authentication\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|e:\\c# project\\prn221_groupproject\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 107,
-          "SelectedChildIndex": 67,
+          "SelectedChildIndex": 72,
           "Children": [
             {
               "$type": "Bookmark",
@@ -322,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml",
@@ -335,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
@@ -361,19 +361,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
-              "RelativeDocumentMoniker": "BBMSRazorPages\\Program.cs",
-              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
-              "RelativeToolTip": "BBMSRazorPages\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T12:28:44.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UserService.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\UserService.cs",
@@ -387,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Authentication\\Login.cshtml",
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Authentication\\Login.cshtml",
@@ -413,15 +400,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Authentication\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Authentication\\Login.cshtml.cs",
               "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Authentication\\Login.cshtml.cs",
               "RelativeToolTip": "BBMSRazorPages\\Pages\\Authentication\\Login.cshtml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB0AAABBAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T12:11:27.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Program.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeToolTip": "BBMSRazorPages\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:28:44.572Z",
               "EditorCaption": ""
             },
             {

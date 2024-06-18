@@ -12,17 +12,3 @@ E:\FPT University\SUMMER2024\PRN221\.NET\BBMSSolution\BusinessObjects\obj\Debug\
 E:\FPT University\SUMMER2024\PRN221\.NET\BBMSSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.pdb
 E:\FPT University\SUMMER2024\PRN221\.NET\BBMSSolution\BusinessObjects\obj\Debug\net7.0\BusinessObjects.genruntimeconfig.cache
 E:\FPT University\SUMMER2024\PRN221\.NET\BBMSSolution\BusinessObjects\obj\Debug\net7.0\ref\BusinessObjects.dll
-E:\C# Project\PRN221_GroupProject\BusinessObjects\bin\Debug\net7.0\BusinessObjects.deps.json
-E:\C# Project\PRN221_GroupProject\BusinessObjects\bin\Debug\net7.0\BusinessObjects.runtimeconfig.json
-E:\C# Project\PRN221_GroupProject\BusinessObjects\bin\Debug\net7.0\BusinessObjects.dll
-E:\C# Project\PRN221_GroupProject\BusinessObjects\bin\Debug\net7.0\BusinessObjects.pdb
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.AssemblyReference.cache
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfoInputs.cache
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.AssemblyInfo.cs
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.csproj.CoreCompileInputs.cache
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.dll
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\refint\BusinessObjects.dll
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.pdb
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\BusinessObjects.genruntimeconfig.cache
-E:\C# Project\PRN221_GroupProject\BusinessObjects\obj\Debug\net7.0\ref\BusinessObjects.dll
