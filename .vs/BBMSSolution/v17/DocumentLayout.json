@@ -1,66 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\",
+  "WorkspaceRootPath": "E:\\C# Project\\PRN221_GroupProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\fpt university\\summer2024\\prn221\\.net\\bbmssolution\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\servicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\servicedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\pricedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\pricedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\paymentmethoddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\paymentmethoddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\flexiblebookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\flexiblebookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\interfaces\\icourtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\icourtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\feedbackdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\feedbackdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\courtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\courtslotdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\courtslotdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\courtgroupdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\courtgroupdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\courtdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\courtdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\bookingtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\courtslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\courtslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|e:\\c# project\\prn221_groupproject\\repositories\\courtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\courtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\courtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\courtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\interfaces\\icourtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\icourtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\interfaces\\ibookingreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\ibookingreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\interfaces\\icourtslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\interfaces\\icourtslotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|e:\\c# project\\prn221_groupproject\\repositories\\interfaces\\icourtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\icourtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -69,12 +97,212 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 2,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 107,
+          "SelectedChildIndex": 62,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1377497384:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1928210406:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",
@@ -82,188 +310,425 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\BookingService.cs",
-              "RelativeDocumentMoniker": "Services\\BookingService.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\BookingService.cs",
-              "RelativeToolTip": "Services\\BookingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "UserDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\UserDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\UserDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:15:34.486Z",
+              "WhenOpened": "2024-06-19T02:56:27.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAACMAAAAzAAAA",
+              "Title": "ServiceDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\ServiceDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ServiceDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\ServiceDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ServiceDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:13:55.22Z"
+              "WhenOpened": "2024-06-19T02:56:21.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\Interfaces\\IBookingService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\Interfaces\\IBookingService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IBookingService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Title": "PriceDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PriceDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PriceDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PriceDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\PriceDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:12:44.616Z"
+              "WhenOpened": "2024-06-19T02:56:12.964Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Services\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Title": "PaymentMethodDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PaymentMethodDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PaymentMethodDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PaymentMethodDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\PaymentMethodDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:11:31.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CustomerRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:10:00.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CourtSlotRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\CourtSlotRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CourtSlotRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\CourtSlotRepository.cs",
-              "RelativeToolTip": "Repositories\\CourtSlotRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBcAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:08:09.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourtRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\CourtRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CourtRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\CourtRepository.cs",
-              "RelativeToolTip": "Repositories\\CourtRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:06:54.22Z"
+              "WhenOpened": "2024-06-19T02:56:07.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAsAAAAIAAAA",
+              "Title": "PaymentDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PaymentDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\PaymentDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PaymentDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\PaymentDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:03:20.484Z"
+              "WhenOpened": "2024-06-19T02:56:03.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlexibleBookingDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\FlexibleBookingDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FlexibleBookingDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\FlexibleBookingDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\FlexibleBookingDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:55:58.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ICourtSlotRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\ICourtSlotRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICourtSlotRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\ICourtSlotRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\ICourtSlotRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Title": "FeedbackDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\FeedbackDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\FeedbackDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\FeedbackDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\FeedbackDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:03:02.483Z"
+              "WhenOpened": "2024-06-19T02:55:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:55:46.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ICourtRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\ICourtRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICourtRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\ICourtRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\ICourtRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Title": "CourtGroupDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtGroupDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CourtGroupDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtGroupDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CourtGroupDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T04:02:31.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BookingRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "Repositories\\BookingRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAABcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T03:59:30.998Z"
+              "WhenOpened": "2024-06-19T02:55:36.864Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IBookingReppository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\IBookingReppository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookingReppository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\IBookingReppository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IBookingReppository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Title": "CourtDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CourtDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CourtDAO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T03:58:18.914Z"
+              "WhenOpened": "2024-06-19T02:55:32.3Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBcAAAAoAAAA",
+              "DocumentIndex": 11,
+              "Title": "BookingTypeDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingTypeDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingTypeDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingTypeDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T03:56:18.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\UserDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\UserDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\UserDAO.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAEAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T03:55:02.599Z"
+              "WhenOpened": "2024-06-19T02:55:24.899Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwAwAAAAIAAAA",
+              "Title": "BookingDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T03:54:42.884Z"
+              "WhenOpened": "2024-06-19T02:55:14.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourtSlotService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\CourtSlotService.cs",
+              "RelativeDocumentMoniker": "Services\\CourtSlotService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\CourtSlotService.cs",
+              "RelativeToolTip": "Services\\CourtSlotService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:07:28.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml",
+              "RelativeToolTip": "BBMSRazorPages\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T01:38:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:11:17.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:13:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourtSlotDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtSlotDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CourtSlotDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtSlotDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CourtSlotDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:03:20.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:06:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourtSlotRepository.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\CourtSlotRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourtSlotRepository.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\CourtSlotRepository.cs",
+              "RelativeToolTip": "Repositories\\CourtSlotRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:06:04.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICourtSlotService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\ICourtSlotService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICourtSlotService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\ICourtSlotService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICourtSlotService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:05:44.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICourtSlotRepository.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Interfaces\\ICourtSlotRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICourtSlotRepository.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Interfaces\\ICourtSlotRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICourtSlotRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:03:49.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Program.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeToolTip": "BBMSRazorPages\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:28:44.572Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }

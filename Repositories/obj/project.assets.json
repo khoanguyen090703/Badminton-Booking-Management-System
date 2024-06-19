@@ -2736,19 +2736,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\phuoc\\.nuget\\packages\\": {},
+    "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\Repositories\\obj\\",
+      "projectPath": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+      "outputPath": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2762,8 +2767,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\DataAccessLayer.csproj"
+            "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj"
             }
           }
         }

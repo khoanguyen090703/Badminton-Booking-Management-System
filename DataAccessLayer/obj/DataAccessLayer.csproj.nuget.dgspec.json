@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BusinessObjects\\BusinessObjects.csproj": {
+    "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BusinessObjects\\BusinessObjects.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BusinessObjects\\obj\\",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,17 +86,21 @@
         }
       }
     },
-    "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\DataAccessLayer\\obj\\",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,8 +114,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BusinessObjects\\BusinessObjects.csproj"
+              "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BBMSRazorPages\\BBMSRazorPages.csproj": {}
+    "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\BBMSRazorPages.csproj": {}
   },
   "projects": {
-    "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BBMSRazorPages\\BBMSRazorPages.csproj": {
+    "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\BBMSRazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BBMSRazorPages\\BBMSRazorPages.csproj",
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\BBMSRazorPages.csproj",
         "projectName": "BBMSRazorPages",
-        "projectPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BBMSRazorPages\\BBMSRazorPages.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\FPT University\\SUMMER2024\\PRN221\\.NET\\BBMSSolution\\BBMSRazorPages\\obj\\",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\BBMSRazorPages.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,7 +31,14 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj"
+              },
+              "E:\\C# Project\\PRN221_GroupProject\\Services\\Services.csproj": {
+                "projectPath": "E:\\C# Project\\PRN221_GroupProject\\Services\\Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +70,292 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj",
+        "projectName": "BusinessObjects",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\C# Project\\PRN221_GroupProject\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\C# Project\\PRN221_GroupProject\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "E:\\C# Project\\PRN221_GroupProject\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Project\\PRN221_GroupProject\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Working_Program\\VisualStudio\\Shared components, tools and SDKs\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj": {
+                "projectPath": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
