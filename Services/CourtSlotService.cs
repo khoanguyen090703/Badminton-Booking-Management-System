@@ -1,4 +1,5 @@
 ﻿using BusinessObjects;
+using Repositories.Interfaces;
 using Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -10,30 +11,30 @@ namespace Services
 {
     public class CourtSlotService : ICourtSlotService
     {
-        private readonly ICourtSlotService courtSlotService;
+        private readonly ICourtSlotRepository courtSlotRepository;
 
-        public CourtSlotService(ICourtSlotService courtSlotService)
+        public CourtSlotService(ICourtSlotRepository courtSlotRepository)
         {
-            this.courtSlotService = courtSlotService;
+            this.courtSlotRepository = courtSlotRepository;
         }
         public bool CreateCourtSlot(CourtSlot courtSlot)
         {
-            return courtSlotService.CreateCourtSlot(courtSlot);
+            return courtSlotRepository.CreateCourtSlot(courtSlot);
         }
 
         public CourtSlot? GetCourtSlotById(int id)
         {
-            return courtSlotService.GetCourtSlotById(id);
+            return courtSlotRepository.GetCourtSlotById(id);
         }
 
         public List<CourtSlot> GetCourtSlots()
         {
-            return courtSlotService.GetCourtSlots();
+            return courtSlotRepository.GetCourtSlots();
         }
 
         public bool UpdateCourtSlot(CourtSlot courtSlot)
         {
-            return courtSlotService.UpdateCourtSlot(courtSlot);
+            return courtSlotRepository.UpdateCourtSlot(courtSlot);
         }
     }
 }

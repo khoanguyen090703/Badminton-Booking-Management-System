@@ -12,6 +12,10 @@ builder.Services.AddRazorPages();
 builder.Services.AddSession();
 builder.Services.AddSingleton<IUserRepository, UserRepository>();
 builder.Services.AddSingleton<IUserService, UserService>();
+builder.Services.AddSingleton<ICourtSlotRepository, CourtSlotRepository>();
+builder.Services.AddSingleton<ICourtSlotService, CourtSlotService>();
+builder.Services.AddSingleton<ICourtRepository, CourtRepository>();
+builder.Services.AddSingleton<ICourtService, CourtService>();
 
 
 var app = builder.Build();

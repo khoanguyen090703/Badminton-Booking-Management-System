@@ -11,17 +11,19 @@
         <h2 class="text-center">Court Timeslot Table</h2>
         <div class="table-responsive">
             <table class="table table-bordered table-hover">
+
                 <thead class="thead-dark">
                     <tr>
                         <th>Time</th>
-                        <th>Court 1</th>
-                        <th>Court 2</th>
-                        <th>Court 3</th>
-                        <th>Court 4</th>
+                        @foreach (var court in Model.Courts)
+                        {
+                            <th>Court @court.Id</th>
+                        }
+
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach(var courtSlot in Model.CourtSlots)
+                    @foreach (var courtSlot in Model.CourtSlots)
                     {
                         <tr>
                             <td>@courtSlot.FromTime - @courtSlot.ToTime</td>
@@ -31,8 +33,10 @@
                             <td>Booked</td>
                         </tr>
                     }
-                    
+
+
                 </tbody>
+
             </table>
         </div>
     </div>
