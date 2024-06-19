@@ -31,6 +31,12 @@ namespace DataAccessLayer
             return dbContext.Bookings.FirstOrDefault(b => b.Id == id);
         }
 
+        public static Booking? GetBookingByCourtId(int id)
+        {
+            using var dbContext = new BBMSDbContext();
+            return dbContext.Bookings.FirstOrDefault(b => b.Court.Id == id);
+        }
+
         public static bool CreateBooking(Booking booking)
         {
             try

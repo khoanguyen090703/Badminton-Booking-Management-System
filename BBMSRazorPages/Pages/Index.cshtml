@@ -2,6 +2,8 @@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
+
+
 }
 
 <div class="text-center">
@@ -27,14 +29,12 @@
                     {
                         <tr>
                             <td>@courtSlot.FromTime - @courtSlot.ToTime</td>
-                            <td>Available</td>
-                            <td>Booked</td>
-                            <td>Available</td>
-                            <td>Booked</td>
+                            @foreach (var court in Model.Courts)
+                            {
+                                <td>Available</td>
+                            }
                         </tr>
                     }
-
-
                 </tbody>
 
             </table>

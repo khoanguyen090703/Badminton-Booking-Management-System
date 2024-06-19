@@ -7,8 +7,52 @@
       "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|e:\\c# project\\prn221_groupproject\\businessobjects\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|e:\\c# project\\prn221_groupproject\\businessobjects\\bbmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bbmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|e:\\c# project\\prn221_groupproject\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|e:\\c# project\\prn221_groupproject\\businessobjects\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD2F6F6-DA17-465B-9802-D6B0728BA5FA}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\court.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|e:\\c# project\\prn221_groupproject\\repositories\\interfaces\\ibookingreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\ibookingreppository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|e:\\c# project\\prn221_groupproject\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 107,
-          "SelectedChildIndex": 65,
+          "SelectedChildIndex": 70,
           "Children": [
             {
               "$type": "Bookmark",
@@ -262,10 +306,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:13:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
@@ -274,11 +314,98 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:10:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:00:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Court.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\Court.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Court.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\Court.cs",
+              "RelativeToolTip": "BusinessObjects\\Court.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:55:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\Booking.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Booking.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\Booking.cs",
+              "RelativeToolTip": "BusinessObjects\\Booking.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:38:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDetailDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:32:08.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:17:21.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:59:45.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Program.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeToolTip": "BBMSRazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:08:40.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -288,22 +415,82 @@
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml",
               "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml",
               "RelativeToolTip": "BBMSRazorPages\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA0AAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwCEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-19T11:59:48.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
-              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "BBMSDbContext.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BBMSDbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BBMSDbContext.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BusinessObjects\\BBMSDbContext.cs",
+              "RelativeToolTip": "BusinessObjects\\BBMSDbContext.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwHEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T11:59:45.126Z",
+              "WhenOpened": "2024-06-19T12:06:05.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookingReppository.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Interfaces\\IBookingReppository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookingReppository.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Interfaces\\IBookingReppository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBookingReppository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:12:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBookingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:17:16.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingRepository.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:16:27.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDAO.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\BookingDAO.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\BookingDAO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:11:39.869Z",
               "EditorCaption": ""
             }
           ]
@@ -315,10 +502,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",

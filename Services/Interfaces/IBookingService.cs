@@ -12,6 +12,7 @@ namespace Services.Interfaces
         List<Booking> GetBookings();
 
         Booking? GetBookingById(int id);
+        Booking? GetBookingByCourtId(int id);
 
         bool CreateBooking(Booking booking);
 

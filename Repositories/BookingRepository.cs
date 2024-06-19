@@ -14,6 +14,9 @@ namespace Repositories
         public bool CreateBooking(Booking booking)
             => BookingDAO.CreateBooking(booking);
 
+        public Booking? GetBookingByCourtId(int id)
+            => BookingDAO.GetBookingByCourtId(id);
+
         public Booking? GetBookingById(int id)
             => BookingDAO.GetBookingById(id);
 

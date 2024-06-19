@@ -16,6 +16,10 @@ builder.Services.AddSingleton<ICourtSlotRepository, CourtSlotRepository>();
 builder.Services.AddSingleton<ICourtSlotService, CourtSlotService>();
 builder.Services.AddSingleton<ICourtRepository, CourtRepository>();
 builder.Services.AddSingleton<ICourtService, CourtService>();
+builder.Services.AddSingleton<IBookingReppository, BookingRepository>();
+builder.Services.AddSingleton<IBookingService, BookingService>();
+builder.Services.AddSingleton<IBookingDetailRepository, BookingDetailRepository>();
+builder.Services.AddSingleton<IBookingDetailService, BookingDetailService>();
 
 
 var app = builder.Build();
