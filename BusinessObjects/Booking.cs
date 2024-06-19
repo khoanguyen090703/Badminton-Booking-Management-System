@@ -46,6 +46,8 @@ namespace BusinessObjects
 
         public Payment? Payment { get; set; }
 
+        public int CourtId { get; set; }
+
         public Court Court { get; set; }
 
         public FlexibleBooking? FlexibleBooking { get; set; }
