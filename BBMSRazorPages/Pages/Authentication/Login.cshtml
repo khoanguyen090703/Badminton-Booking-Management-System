@@ -1,0 +1,30 @@
+﻿@page
+@model BBMSRazorPages.Pages.Authentication.LoginModel
+@{
+    Layout = null;
+}
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .full-height {
+            height: 100vh;
+        }
+    </style>
+<div class="container-fluid full-height d-flex justify-content-center align-items-center">
+    <div class="card col-md-4   ">
+        <div class="card-body">
+            <h5 class="card-title">Login</h5>
+            <form method="post">
+                <div class="form-group">
+                    <label for="email">Email address</label>
+                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" asp-for="@Model.LoginUser.Email">
+                </div>
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" id="password" asp-for="@Model.LoginUser.Password">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+            <p class="card-text">@Model.Message</p>
+        </div>
+    </div>
+</div>

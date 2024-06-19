@@ -16,5 +16,7 @@ namespace Services.Interfaces
         bool CreateUser(User user);
 
         bool UpdateUser(User user);
+
+        User? GetUserByEmail(string email);
     }
 }

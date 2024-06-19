@@ -35,5 +35,10 @@ namespace Services
         {
             return userRepository.UpdateUser(user);
         }
+
+        public User? GetUserByEmail(string email)
+        {
+            return userRepository?.GetUserByEmail(email);
+        }
     }
 }

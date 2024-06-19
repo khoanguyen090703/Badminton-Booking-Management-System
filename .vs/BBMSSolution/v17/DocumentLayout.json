@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\C# Project\\PRN221_GroupProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|e:\\c# project\\prn221_groupproject\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F505F4-A38C-4452-94F5-077907D25CC3}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|e:\\c# project\\prn221_groupproject\\dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2A429C2-0B7E-457C-9A3F-33F910F5B4A1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|e:\\c# project\\prn221_groupproject\\repositories\\interfaces\\icourtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{384897C3-928C-4F21-A204-4EF8418FD2C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\icourtslotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|e:\\c# project\\prn221_groupproject\\bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47B2D597-0467-48EE-95F8-7DF9167E699F}|BBMSRazorPages\\BBMSRazorPages.csproj|solutionrelative:bbmsrazorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -351,6 +359,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:04:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:00:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\UserDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\UserDAO.cs",
@@ -363,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ServiceDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\ServiceDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\ServiceDAO.cs",
@@ -376,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PriceDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PriceDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\PriceDAO.cs",
@@ -389,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PaymentMethodDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PaymentMethodDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\PaymentMethodDAO.cs",
@@ -402,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PaymentDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\PaymentDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\PaymentDAO.cs",
@@ -415,7 +449,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "BBMSRazorPages\\Program.cs",
+              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
+              "RelativeToolTip": "BBMSRazorPages\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:28:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FlexibleBookingDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\FlexibleBookingDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\FlexibleBookingDAO.cs",
@@ -428,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FeedbackDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\FeedbackDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\FeedbackDAO.cs",
@@ -441,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "CustomerDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CustomerDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDAO.cs",
@@ -454,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "CourtGroupDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtGroupDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\CourtGroupDAO.cs",
@@ -467,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CourtDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\CourtDAO.cs",
@@ -480,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BookingTypeDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingTypeDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\BookingTypeDAO.cs",
@@ -493,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "BookingDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\BookingDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\BookingDAO.cs",
@@ -506,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CourtSlotService.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\CourtSlotService.cs",
               "RelativeDocumentMoniker": "Services\\CourtSlotService.cs",
@@ -518,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml",
@@ -531,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IBookingService.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\IBookingService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IBookingService.cs",
@@ -543,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "BBMSRazorPages\\Pages\\Index.cshtml.cs",
@@ -555,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CourtSlotDAO.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\DataAccessLayer\\CourtSlotDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\CourtSlotDAO.cs",
@@ -568,7 +619,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "BookingService.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\BookingService.cs",
               "RelativeDocumentMoniker": "Services\\BookingService.cs",
@@ -580,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "CourtSlotRepository.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\CourtSlotRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CourtSlotRepository.cs",
@@ -592,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ICourtSlotService.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Services\\Interfaces\\ICourtSlotService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\ICourtSlotService.cs",
@@ -604,7 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ICourtSlotRepository.cs",
               "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\Repositories\\Interfaces\\ICourtSlotRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICourtSlotRepository.cs",
@@ -613,18 +664,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T02:03:49.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
-              "RelativeDocumentMoniker": "BBMSRazorPages\\Program.cs",
-              "ToolTip": "E:\\C# Project\\PRN221_GroupProject\\BBMSRazorPages\\Program.cs",
-              "RelativeToolTip": "BBMSRazorPages\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T12:28:44.572Z"
             },
             {
               "$type": "Bookmark",
@@ -637,10 +676,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:12:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         },
